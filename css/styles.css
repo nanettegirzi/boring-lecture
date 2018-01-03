@@ -20,3 +20,8 @@ h2{
   color: darkred;
   text-shadow: 3px 3px 3px #010
 }
+
+.important {
+  font-style: oblique;
+  font-weight: bold;
+}

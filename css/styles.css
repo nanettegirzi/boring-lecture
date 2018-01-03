@@ -1,0 +1,22 @@
+body {
+  background-color: gray;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.intro {
+  text-align: center;
+  width: 50%;
+  text-shadow: 1px 1px 1px #000
+}
+
+h2{
+  color: crimson;
+
+}
+
+h1 {
+  text-align: center;
+  width: 50%;
+  color: darkred;
+  text-shadow: 3px 3px 3px #010
+}

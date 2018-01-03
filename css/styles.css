@@ -11,10 +11,10 @@ body {
 
 h2{
   color: crimson;
-
+  text-align: center;
 }
 
-h1 {
+.title {
   text-align: center;
   width: 50%;
   color: darkred;

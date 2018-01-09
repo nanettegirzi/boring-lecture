@@ -25,3 +25,13 @@ h2{
   font-style: oblique;
   font-weight: bold;
 }
+
+.clickable:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.red {
+  border: 5px solid black;
+  background-color: red;
+}
